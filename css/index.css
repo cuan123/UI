@@ -151,7 +151,7 @@ header .showTime {
 }
 .mainbox .panel .chart {
   height: 3rem;
-  width: 4rem;
+  width: 100%;
 }
 .mainbox .panel .chart .box1 {
   width: 100%;
