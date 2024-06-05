@@ -251,8 +251,8 @@ header .showTime {
   height: 9.875rem;
 }
 .map .map1 {
-  width: 6.375rem;
-  height: 6.375rem;
+  width: 5.375rem;
+  height: 5.375rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -262,8 +262,8 @@ header .showTime {
   opacity: 0.4;
 }
 .map .map2 {
-  width: 8rem;
-  height: 8rem;
+  width: 7rem;
+  height: 7rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -281,8 +281,8 @@ header .showTime {
   }
 }
 .map .map3 {
-  width: 7rem;
-  height: 7rem;
+  width: 6rem;
+  height: 6rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -292,8 +292,8 @@ header .showTime {
   animation: rotate2 10s linear infinite;
 }
 .map .map4 {
-  width: 8rem;
-  height: 8rem;
+  width: 7rem;
+  height: 7rem;
   position: absolute;
   top: 45%;
   left: 50%;
