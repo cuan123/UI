@@ -249,6 +249,7 @@ header .showTime {
 .map {
   position: relative;
   height: 9.875rem;
+  width:100%;
 }
 .map .map1 {
   width: 5.375rem;
